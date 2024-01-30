@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-24T10:19:21 IST" name="Default suite" finished-at="2024-01-24T10:20:01 IST" duration-ms="40062">
+    <groups>
+    </groups>
+    <test started-at="2024-01-24T10:19:21 IST" name="Default test" finished-at="2024-01-24T10:20:01 IST" duration-ms="40062">
+      <class name="com.annotations.IRCTC">
+        <test-method signature="book()[pri:0, instance:com.annotations.IRCTC@5876a9af]" started-at="2024-01-24T10:19:21 IST" name="book" finished-at="2024-01-24T10:20:01 IST" duration-ms="39998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book -->
+      </class> <!-- com.annotations.IRCTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
